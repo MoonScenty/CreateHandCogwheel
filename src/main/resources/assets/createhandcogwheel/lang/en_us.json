@@ -1,3 +1,20 @@
 {
-  "block.createhandcogwheel.hand_cogwheel": "Create: Hand Cogwheel"
+  "block.createhandcogwheel.hand_cogwheel": "Create: Hand Cogwheel",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.header": "Generating Rotational Force",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_1": "The Hand Cogwheel combines a Hand Crank with a small Cogwheel.",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_2": "Hold Right-Click to turn the handle and generate temporary rotational force.",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_3": "Sneak while using it to reverse the generated rotation.",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_4": "Turning it consumes hunger according to Create's crankHungerMultiplier setting.",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_5": "The Extendo Grip retains Create's normal exemption from crank hunger consumption.",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.header": "Connecting to Cogwheels",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.text_1": "Its teeth mesh with adjacent small Cogwheels on the same axis.",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.text_2": "Each meshed Cogwheel rotates in the opposite direction and relays the generated force.",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.text_3": "Cogwheels only mesh when their rotation axes and relative positions are compatible.",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.text_4": "Hold a Hand Cogwheel and look near a Cogwheel's rim to preview a valid placement.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.header": "Connecting to Shafts",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_1": "The back of the Hand Cogwheel exposes a direct shaft connection.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_2": "Shafts on the same axis receive the generated speed without a gear ratio change.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_3": "Looking at a Shaft end while holding the item shows a placement preview on that axis.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_4": "Hold Sneak while placing to bypass the guide and use normal block placement.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_5": "The block can be oriented along X, Y, or Z and can also be waterlogged."
 }

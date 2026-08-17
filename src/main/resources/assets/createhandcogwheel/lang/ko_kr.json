@@ -1,3 +1,20 @@
 {
-  "block.createhandcogwheel.hand_cogwheel": "Create: 손 톱니바퀴"
+  "block.createhandcogwheel.hand_cogwheel": "Create: 손 톱니바퀴",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.header": "수동으로 회전력 생성하기",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_1": "손 톱니바퀴는 수동 크랭크와 작은 톱니바퀴를 하나로 결합한 장치입니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_2": "오른쪽 마우스 버튼을 누르고 있으면 손잡이를 돌려 일시적인 회전력을 생성합니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_3": "웅크린 채로 사용하면 회전 방향이 반대로 바뀝니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_4": "손잡이를 돌리는 동안 Create의 crankHungerMultiplier 설정에 따라 허기가 소모됩니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_manual.text_5": "손에 연장 손(Extendo Grip)을 들고 있으면 Create의 기존 수동 크랭크처럼 허기를 소모하지 않습니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.header": "톱니바퀴와 연결하기",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.text_1": "손 톱니바퀴의 이빨은 같은 회전축을 가진 인접한 작은 톱니바퀴와 맞물립니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.text_2": "맞물린 톱니바퀴는 서로 반대 방향으로 돌며 생성된 회전력을 전달합니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.text_3": "회전축과 상대 위치가 맞을 때만 톱니바퀴가 정상적으로 맞물립니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_cogs.text_4": "손 톱니바퀴를 들고 톱니바퀴 가장자리를 보면 설치 가능한 위치에 미리보기가 표시됩니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.header": "샤프트와 연결하기",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_1": "손 톱니바퀴 뒷면에는 샤프트를 바로 연결할 수 있는 축이 있습니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_2": "같은 축의 샤프트는 기어비 변화 없이 생성된 회전 속도를 그대로 전달받습니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_3": "아이템을 든 채 샤프트 끝을 보면 해당 축을 따라 설치 미리보기가 표시됩니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_4": "웅크린 채로 설치하면 가이드를 무시하고 일반적인 블록 설치 방식을 사용합니다.",
+  "createhandcogwheel.ponder.hand_cogwheel_shafts.text_5": "블록은 X, Y, Z 축 모두로 배치할 수 있으며 물에 잠긴 상태로도 설치할 수 있습니다."
 }
