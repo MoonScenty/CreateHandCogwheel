@@ -1,25 +1,26 @@
 
-Installation information
-=======
+# CreateHandCogwheel
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+CreateHandCogwheel is a Create add-on for Minecraft 1.21.1 on NeoForge.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+The project aims to add a **Hand Cogwheel**: a kinetic block that combines the
+power transmission of a Cogwheel with the manual rotational input of a Hand
+Crank.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+## Requirements
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+- Minecraft 1.21.1
+- NeoForge 21.1.248 or newer
+- Create 6.0.10 (versions before 6.1.0)
+- Java 21
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+## Development
+
+Run a build with:
+
+```shell
+./gradlew build
+```
+
+The Create development dependencies follow the official
+[NeoForge 1.21.1 dependency guide](https://wiki.createmod.net/developers/depend-on-create/neoforge-1.21.1).

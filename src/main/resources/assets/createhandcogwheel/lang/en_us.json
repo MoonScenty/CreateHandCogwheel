@@ -1,13 +1,3 @@
 {
-  "itemGroup.createhandcogwheel": "Example Mod Tab",
-  "block.createhandcogwheel.example_block": "Example Block",
-  "item.createhandcogwheel.example_item": "Example Item",
-
-  "createhandcogwheel.configuration.title": "CreateHandCogwheel Configs",
-  "createhandcogwheel.configuration.section.createhandcogwheel.common.toml": "CreateHandCogwheel Configs",
-  "createhandcogwheel.configuration.section.createhandcogwheel.common.toml.title": "CreateHandCogwheel Configs",
-  "createhandcogwheel.configuration.items": "Item List",
-  "createhandcogwheel.configuration.logDirtBlock": "Log Dirt Block",
-  "createhandcogwheel.configuration.magicNumberIntroduction": "Magic Number Text",
-  "createhandcogwheel.configuration.magicNumber": "Magic Number"
+  "block.createhandcogwheel.hand_cogwheel": "Create: Hand Cogwheel"
 }
